@@ -2,7 +2,8 @@
  *       @file  prob_01.cpp
  *      @brief
  *
- * Detailed description starts here.
+ * Searching natural numbers divisable by three and five 
+ * within a user defined limit.
  *
  *     @author  Daniel Hufschlaeger (dhufe), daniel@hufschlaeger.net
  *
