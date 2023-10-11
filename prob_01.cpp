@@ -3,7 +3,7 @@
  *      @brief
  *
  * Searching natural numbers divisable by three and five 
- * within a user defined limit.
+ * within an user-defined limit.
  *
  *     @author  Daniel Hufschlaeger (dhufe), daniel@hufschlaeger.net
  *
